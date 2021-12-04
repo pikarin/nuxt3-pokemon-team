@@ -3,7 +3,11 @@
 @tailwind utilities;
 
 @layer base {
-  body {
-    @apply antialiased text-gray-900;
+  html, body {
+    @apply min-h-screen antialiased text-gray-900;
+  }
+
+  #__nuxt, #__layout {
+    @apply min-h-screen;
   }
 }
