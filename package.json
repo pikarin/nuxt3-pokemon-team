@@ -17,5 +17,8 @@
     "postcss": "^8.4.4",
     "prettier": "^2.5.0",
     "tailwindcss": "^2.2.19"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^1.0.5"
   }
 }
