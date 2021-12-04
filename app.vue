@@ -7,7 +7,5 @@ useMeta({
 </script>
 
 <template>
-  <main>
-    <NuxtPage />
-  </main>
+  <NuxtPage />
 </template>
